@@ -1,4 +1,5 @@
-#Privacy Policy for LipTry
+Privacy Policy for LipTry
+
 Effective Date: September 30, 2026
 LipTry is developed and maintained by BoldT Team.
 We respect your privacy and designed LipTry to process your photos and virtual lip try-on features primarily on your device.
